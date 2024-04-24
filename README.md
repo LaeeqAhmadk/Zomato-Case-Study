@@ -2,7 +2,7 @@
 Designing a Marketing Campaign for a
 Restaurant Chain Using Exploratory Data
 
-##Analysis
+## Analysis
 
 ## Objective:
 To utilize exploratory data analysis (EDA) skills to understand customer preferences,
